@@ -2,7 +2,7 @@ defaults:
   -
     scope:
       path: ""
-      # type: posts
+      # type: "posts"
     values:
       layout: "post"
       encoding: utf-8
